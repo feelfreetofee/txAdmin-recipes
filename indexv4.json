@@ -15,6 +15,13 @@
     },
     {
         "engine": 3,
+        "name": "ESX-OX",
+        "tags": ["fivem", "roleplay", "unofficial"],
+        "description": "The unofficial recipe of ESX that includes OX resources",
+        "url": "https://raw.githubusercontent.com/esx-framework/ESX-recipes/legacy/recipe.yaml"
+    },
+    {
+        "engine": 3,
         "name": "Qbox",
         "tags": ["fivem", "roleplay"],
         "description": "The most modern and optimized framework, while compatible with QBCore resources.",
